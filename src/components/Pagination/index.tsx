@@ -20,7 +20,6 @@ export function Pagination(){
                 <PaginationItem number={4} />
                 <PaginationItem number={5} />
             </Stack>
-            
         </Stack>
     );
 }
